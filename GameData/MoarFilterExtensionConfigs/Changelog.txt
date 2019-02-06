@@ -3,7 +3,8 @@ MoarFilterExtensionConfigs
 Changelog:
 
 1.0.4.1
-	- Fixed wrong link for version check. Fixed a typo in folder name.
+	- Fixed wrong link for version check.
+	- Fixed a typo in folder name.
 	- Added Changelog.txt
 	
 1.0.4
