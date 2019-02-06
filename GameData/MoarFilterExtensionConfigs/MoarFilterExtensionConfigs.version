@@ -2,6 +2,7 @@
   "NAME": "MoarFilterExtensionConfigs",
   "URL": "https://raw.githubusercontent.com/leatherneck6017/MoarFilterExtensionConfigs/master/GameData/MoarFilterExtensionConfigs/MoarFilterExtensionConfigs.version",
   "DOWNLOAD": "https://spacedock.info/mod/2071/Moar%20Filter%20Extension%20Configs",
+  "CHANGE_LOG_URL": "https://raw.githubusercontent.com/leatherneck6017/MoarFilterExtensionConfigs/master/GameData/MoarFilterExtensionConfigs/Changelog.txt",
   "GITHUB": {
     "USERNAME": "leatherneck6017",
     "REPOSITORY": "MoarFilterExtensionConfigs",
