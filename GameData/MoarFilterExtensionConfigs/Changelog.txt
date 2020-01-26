@@ -2,6 +2,9 @@ MoarFilterExtensionConfigs
 
 Changelog:
 
+1.0.5
+	- Add subcategories for cargo and robotics. ** Robotics not showing, FE needs new code? **
+
 1.0.4.1
 	- Fixed wrong link for version check.
 	- Fixed a typo in folder name.
