@@ -2,6 +2,10 @@ MoarFilterExtensionConfigs
 
 Changelog:
 
+1.0.5.1
+	- Seperate "coupling" into Adapter, Decoupler, Docking Port, and Multi-Coupler subcategories.
+	- Add file to fix incorrect Squad bulkheads. Currently only 1.875 heat shield, will add more as I find them.
+
 1.0.5
 	- Add subcategories for cargo and robotics. ** Robotics not showing, FE needs new code? **
 
